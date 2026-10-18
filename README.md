@@ -1,4 +1,4 @@
-# Hi, I’m Kanzu 👋 (Kanzu11)
+# Hi, I’m Kanzedin 👋 (Kanzu11)
 
 Full‑stack developer and maker. I build mobile apps with Flutter, modern web frontends with React & TypeScript, Node.js backends, and experiment with AI and Python automation. Below is a curated, professional view of my public work grouped by category.
 
