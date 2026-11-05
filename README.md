@@ -51,10 +51,12 @@ Full-stack developer and maker. I build mobile apps with Flutter, modern web fro
 
 🚀 Building full-stack and mobile projects while sharpening my skills in AI, Python, and competitive programming.
 
-## 📊 GitHub Activity & Analytics
+## 📊 GitHub Activity
 
-The profile README image-card services can be unreliable, so I’ve replaced them with direct links to GitHub’s own pages:
+<p align="center">
+  <img src="https://github.com/users/Kanzu11/contributions" alt="GitHub contributions calendar for Kanzu11" width="100%" />
+</p>
 
-- [Contribution activity and calendar](https://github.com/Kanzu11) — view the contribution graph on my GitHub profile.
-- [Repositories and language breakdowns](https://github.com/Kanzu11?tab=repositories) — browse my projects and their GitHub language statistics.
-- [Competitive programming repositories](https://github.com/Kanzu11?tab=repositories&q=) — explore my problem-solving work, including [CSEC_CPD](https://github.com/Kanzu11/CSEC_CPD) and [LeetCode](https://github.com/Kanzu11/leetcode).
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kanzu11&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for Kanzu11" />
+</p>
