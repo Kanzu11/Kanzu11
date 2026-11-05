@@ -51,17 +51,10 @@ Full-stack developer and maker. I build mobile apps with Flutter, modern web fro
 
 🚀 Building full-stack and mobile projects while sharpening my skills in AI, Python, and competitive programming.
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanzu11&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanzu11's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanzu11&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
-</p>
+The profile README image-card services can be unreliable, so I’ve replaced them with direct links to GitHub’s own pages:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kanzu11&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanzu11&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
+- [Contribution activity and calendar](https://github.com/Kanzu11) — view the contribution graph on my GitHub profile.
+- [Repositories and language breakdowns](https://github.com/Kanzu11?tab=repositories) — browse my projects and their GitHub language statistics.
+- [Competitive programming repositories](https://github.com/Kanzu11?tab=repositories&q=) — explore my problem-solving work, including [CSEC_CPD](https://github.com/Kanzu11/CSEC_CPD) and [LeetCode](https://github.com/Kanzu11/leetcode).
