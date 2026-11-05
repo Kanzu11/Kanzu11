@@ -45,3 +45,23 @@ Full-stack developer and maker. I build mobile apps with Flutter, modern web fro
 - [ai-code-review-assignment](https://github.com/Kanzu11/ai-code-review-assignment) — AI code review assignment template and submission repository. (Python)
 - [ai-text-summarize-bot](https://github.com/Kanzu11/ai-text-summarize-bot) — Briefly AI — a Python-based text summarization service with a Flask REST API and optional Telegram bot; designed for content compression and automation workflows. (Python)
 
+---
+
+## 📌 Current Status
+
+🚀 Building full-stack and mobile projects while sharpening my skills in AI, Python, and competitive programming.
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanzu11&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanzu11's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanzu11&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kanzu11&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanzu11&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
