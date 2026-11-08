@@ -54,9 +54,5 @@ Full-stack developer and maker. I build mobile apps with Flutter, modern web fro
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github.com/users/Kanzu11/contributions" alt="GitHub contributions calendar for Kanzu11" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Kanzu11&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for Kanzu11" />
 </p>
