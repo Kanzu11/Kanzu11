@@ -1,57 +1,70 @@
 # Hi, I’m Kanzedin 👋 (Kanzu11)
 
-Full-stack developer and maker. I build mobile apps with Flutter, modern web frontends with React & TypeScript, Node.js backends, and experiment with AI and Python automation. Below is a curated, practical portfolio of projects and learning work.
+Full-stack developer and maker building mobile-first, real-world products across TypeScript, React, Flutter, Node.js, Python, and blockchain infrastructure.
 
----
+## Featured projects
 
-## 📱 Mobile Development
+### [CarGO — Fleet & Landmark Dispatch](https://github.com/Kanzu11/CarGO)
 
-- [CBE-notifier](https://github.com/Kanzu11/CBE-notifier) — Intelligent offline Android notifier and expense tracker tailored for Commercial Bank of Ethiopia (CBE) SMS formats; features offline access, data extraction, and actionable alerts.
-- [Expense-tracker-](https://github.com/Kanzu11/Expense-tracker-) — Ledger Go — a polished Flutter expense-tracking app with visual analytics, budget alerts, and optional home-screen widget support.
-- [Recipe-mobile-app](https://github.com/Kanzu11/Recipe-mobile-app) — FlavorCraft — a responsive Flutter recipe app with Firebase auth, FCM push notifications, offline favorites (Hive), and personalized cooking tools.
+A mobile-first ride-hailing, Bajaj, and fleet-dispatch PWA for Ethiopia.
 
-## 🌐 Web Development
+- Rider and driver workflows with real browser GPS and simulated fallback
+- Full-viewport geospatial fleet command center
+- MapLibre 3D vector maps and landmark-first pickup selection
+- English and Amharic localization
+- Mock and WebSocket fleet transports
+- PWA and Android TWA support
 
-### React applications
-- [Pulse-chat-web-socket-project-](https://github.com/Kanzu11/Pulse-chat-web-socket-project-) — Real-time chat demo demonstrating bidirectional WebSocket communication with Express, Socket.IO and React.
-- [Puls-Store](https://github.com/Kanzu11/Puls-Store) — PulseStore — a full-stack commerce storefront and Telegram operations suite with React, TypeScript, Node.js, Express, Prisma, PostgreSQL, and integrated business tooling.
-- [Library-Management-System-Frontend](https://github.com/Kanzu11/Library-Management-System-Frontend) — Frontend for a role-based library management platform built with React, Tailwind CSS, Jotai, and TypeScript.
-- [job-search](https://github.com/Kanzu11/job-search) — Job Sphere — a modern, responsive job search application built with React and Vite; features authentication, dynamic search, filtering and profile-based browsing.
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Zustand · MapLibre GL · Vitest
 
-### Frontend projects
-- [my-portfolio](https://github.com/Kanzu11/my-portfolio) — TypeScript-based portfolio/landing pages (Create Pages with TypeScript template). (TypeScript)
-- [denbal-restaurant](https://github.com/Kanzu11/denbal-restaurant) — React + TypeScript + Vite project scaffolded for a restaurant site (template with ESLint + React setup). (React / TypeScript)
-- [ASTUMSJ-Bootcamp](https://github.com/Kanzu11/ASTUMSJ-Bootcamp) — Bootcamp project collection (includes Kawaii TodoList, BlogApp, Project Tracker and other demo apps). (HTML / JS / React)
-- [first-html-task](https://github.com/Kanzu11/first-html-task) — Basic HTML/CSS task (no README present). (HTML)
-- [geeks](https://github.com/Kanzu11/geeks) — Collection of solved algorithmic problems and write-ups (samples from GeeksforGeeks). (Various)
+### [Fetan-P2P — Ethiopian P2P Crypto Trading](https://github.com/Kanzu11/Fetan-P2P)
 
-## ⚙️ Backend Development
+A secure P2P cryptocurrency trading platform and Telegram Mini App designed for the Ethiopian market.
 
-- [CSE-DEV](https://github.com/Kanzu11/CSE-DEV) — Knowledge AI Platform: full-stack application with RAG-style architecture, document ingestion, embeddings, and an AI chat interface (Node.js backend + React frontend).
-- [CSE-DEV-PROJECTS](https://github.com/Kanzu11/CSE-DEV-PROJECTS) — Collection of frontend/backend project templates and exercises (React + Vite setups). (JavaScript / React)
-- [course-hunter-bot](https://github.com/Kanzu11/course-hunter-bot) — Prototype project scaffold created with Lovable (Vite / TypeScript / React). (TypeScript)
-- [Project Tracker (in ASTUMSJ-Bootcamp)](https://github.com/Kanzu11/ASTUMSJ-Bootcamp/tree/main/Project%20Tracker) — Full-stack project tracker (Node.js, Express, MongoDB) inside the ASTUMSJ Bootcamp workspace.
-- [denbal-restaurant](https://github.com/Kanzu11/denbal-restaurant) — (Also listed under Frontend) contains a React + TypeScript scaffold that may include backend integration for a restaurant app.
+- Mandatory buyer and seller KYC verification
+- BEP-20, TRC-20, and TON deposit address derivation
+- Automated escrow lifecycle and dispute resolution
+- English and Amharic interface
+- Live pricing and order management
+- Telegram bot, Mini App, email alerts, and admin tools
+- PostgreSQL/Prisma storage with an isolated payout engine
 
-## 🧠 Competitive Programming
+**Stack:** Next.js 14 · React 18 · TypeScript · Prisma · PostgreSQL · ethers · Telegraf · Zod · Tailwind CSS
 
-- [CSEC_CPD](https://github.com/Kanzu11/CSEC_CPD) — Practice repository for competitive programming and algorithmic problem solving in Python, featuring Codeforces-style exercises and daily CPD problem solutions.
-- [leetcode](https://github.com/Kanzu11/leetcode) — Collection of solved LeetCode problems with per-problem explanations, examples, and Python implementations.
-- [hackerrank](https://github.com/Kanzu11/hackerrank) — Python challenge solutions and interview/practice problem sets.
-- [Phyton](https://github.com/Kanzu11/Phyton) — Repository of Python experiments, exercises, and small coding practice scripts.
+## Web Development
 
-## 🤖 AI & IoT
+- [CarGO](https://github.com/Kanzu11/CarGO) — Ethiopian fleet dispatch PWA and operations command center.
+- [Fetan-P2P](https://github.com/Kanzu11/Fetan-P2P) — Secure P2P crypto trading platform with escrow and Telegram integration.
+- [Puls-Store](https://github.com/Kanzu11/Puls-Store) — Full-stack commerce storefront and Telegram operations suite.
+- [Pulse-chat-web-socket-project-](https://github.com/Kanzu11/Pulse-chat-web-socket-project-) — Real-time chat using Express, Socket.IO, and React.
+- [Library-Management-System-Frontend](https://github.com/Kanzu11/Library-Management-System-Frontend) — Frontend for a role-based library management platform.
+- [my-portfolio](https://github.com/Kanzu11/my-portfolio) — Personal portfolio built with TypeScript.
+- [job-search](https://github.com/Kanzu11/job-search) — Modern React and Vite job search application.
 
-- [ai-code-review-assignment](https://github.com/Kanzu11/ai-code-review-assignment) — AI code review assignment template and submission repository. (Python)
-- [ai-text-summarize-bot](https://github.com/Kanzu11/ai-text-summarize-bot) — Briefly AI — a Python-based text summarization service with a Flask REST API and optional Telegram bot; designed for content compression and automation workflows. (Python)
+## Mobile Development
 
----
+- [CBE-notifier](https://github.com/Kanzu11/CBE-notifier) — Android expense notifier designed for Commercial Bank of Ethiopia SMS formats.
+- [Expense-tracker-](https://github.com/Kanzu11/Expense-tracker-) — Flutter expense-tracking app with analytics and budget alerts.
+- [Recipe-mobile-app](https://github.com/Kanzu11/Recipe-mobile-app) — Flutter recipe app with Firebase authentication and offline favorites.
 
-## 📌 Current Status
+## Backend and AI
 
-🚀 Building full-stack and mobile projects while sharpening my skills in AI, Python, and competitive programming.
+- [CSE-DEV](https://github.com/Kanzu11/CSE-DEV) — Knowledge AI platform with document ingestion, embeddings, RAG-style retrieval, and AI chat.
+- [course-hunter-bot](https://github.com/Kanzu11/course-hunter-bot) — TypeScript and React course discovery prototype.
+- [ai-text-summarize-bot](https://github.com/Kanzu11/ai-text-summarize-bot) — Python text summarization service with a REST API and Telegram bot.
 
-## 📊 GitHub Activity
+## Competitive Programming
+
+- [CSEC_CPD](https://github.com/Kanzu11/CSEC_CPD) — Competitive programming practice and algorithm exercises.
+- [leetcode](https://github.com/Kanzu11/leetcode) — Python LeetCode solutions and explanations.
+- [hackerrank](https://github.com/Kanzu11/hackerrank) — Python challenge solutions.
+- [Phyton](https://github.com/Kanzu11/Phyton) — Python experiments and coding exercises.
+
+## Current focus
+
+Building secure, bilingual, and infrastructure-conscious applications for mobile and web, with a focus on Ethiopia-specific products and practical fintech, logistics, and AI workflows.
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kanzu11&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for Kanzu11" />
